@@ -40,7 +40,7 @@ Name | Website | Region
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
 [Aivitex](/company-profiles/aivitex.md) | https://aivitex.com/ | Germany
 [Alami](/company-profiles/alami.md) | https://alamisharia.co.id/en/ | Indonesia
-[Alan](/company-profiles/alan.md) | https://alan.com// | Europe
+[Alan](/company-profiles/alan.md) | https://alan.com/ | Europe
 [Algorand](/company-profiles/algorand.md) | https://www.algorand.com/ | USA
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | North America
 [ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
@@ -404,6 +404,7 @@ Name | Website | Region
 [Leadfeeder](/company-profiles/leadfeeder.md) | https://www.leadfeeder.com | Europe, North America
 [LeadIQ](/company-profiles/leadiq.md) | https://leadiq.com/ | Worldwide
 [Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | USA, Canada
+[Lifen](/company-profiles/lifen.md) | https://www.lifen.health/ | France, Germany, UK
 [Lifetime Value Company](/company-profiles/lifetime-value-company.md) | https://www.ltvco.com/ | Worldwide
 [Lightbend](/company-profiles/lightbend.md) | https://www.lightbend.com/ | Worldwide
 [Lightspeed](/company-profiles/lightspeed.md) | https://www.lightspeedhq.com/ | Worldwide
@@ -712,6 +713,7 @@ Name | Website | Region
 [WebDevStudios](/company-profiles/webdevstudios.md) | https://webdevstudios.com/ | USA
 [WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
 [Webikon](/company-profiles/webikon.md) | https://www.webikon.sk/en/ | Worldwide
+[Webrunners](/company-profiles/webrunners.md) | https://www.webrunners.de/en/ | Europe
 [Wells Fargo](/company-profiles/wells-fargo.md) | https://www.wellsfargo.com/ | USA
 [wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide
 [WeMakeMVP](/company-profiles/wemakemvp.md) | https://www.wemakemvp.com/ | Worldwide
@@ -722,6 +724,7 @@ Name | Website | Region
 [Wildbit](/company-profiles/wildbit.md) | https://wildbit.com/ | Worldwide
 [Wizeline](/company-profiles/wizeline.md) | https://www.wizeline.com/ | Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
+[Wolverine Trading](/company-profiles/wolverine-trading.md) | https://www.wolve.com/ | USA, UK
 [Wombat Security Technologies](/company-profiles/wombat-security.md) | https://www.wombatsecurity.com/ | USA
 [WP-Media](/company-profiles/wp-media.md) | https://wp-media.me/ | Worldwide
 [X-Team](/company-profiles/x-team.md) | https://x-team.com/ | Worldwide
